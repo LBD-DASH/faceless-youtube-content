@@ -1,15 +1,15 @@
-# Weekly metrics review: Faceless YouTube Content Channel (niche to be chosen)
+# Weekly metrics review: Faceless YouTube Channel (Princess Baylin bedtime stories)
 
 _Run once a week (Mondays suggested). It isn't part of the daily schedule: paste it into a chat assistant, or run `python scripts/run_prompts.py weekly-metrics-review`._
 
 ## Inputs
-Use the repo's `README.md` (the plan, money model, 30-day plan and success/kill criteria), the most recent files in `logs/` (newest first) and anything in `from-cto-new/`. If you're pasting this prompt into a chat assistant, paste or attach those files below it. If no logs are supplied, treat today as Day 1 of the 30-day plan.
+Use the repo's `README.md` (the plan, money model, 30-day plan and success/kill criteria), `SHARED_UPDATES.md`, the most recent files in `logs/` (newest first) and anything in `from-cto-new/`. If you're pasting this prompt into a chat assistant, paste or attach those files below it. If no logs are supplied, treat today as Day 1 of the 30-day plan.
 
 ## Task
-1. Pull these metrics from the logs for the last 7 days and the 7 days before that: niche status, videos scripted, produced and published, Shorts published, views, watch hours (cumulative and last 12 months), impressions click-through rate, average view duration %, subscribers, production hours per video, any policy notices.
+1. Pull these metrics from the logs for the last 7 days and the 7 days before that: episodes scripted, produced and published (per language), Shorts published, views, watch hours (cumulative and last 12 months), impressions click-through rate, average view duration %, subscribers, production hours per episode, any policy notices (including made-for-kids or AI-label changes).
 2. Show them as a small table with week-on-week change. Write "unknown" where a number is missing.
-3. Rank videos by views, click-through rate and average view duration. Say which topics, titles and thumbnails worked, and check nothing published could look templated or mass-produced.
-4. Say what worked, what didn't, and one experiment for next week.
+3. Rank episodes by views, click-through rate and average view duration. Say which stories, titles and thumbnails worked, and check nothing published could look templated or mass-produced.
+4. Say what worked, what didn't, and one experiment for next week. Note any learnings worth sharing with princess-baylin (as a Cross-project note in `SHARED_UPDATES.md`).
 5. Measure progress against the success/kill criteria in the README. Recommend **continue**, **adjust** or **kill**, with a one-line reason.
 6. List the metrics Kevin should paste into next week's logs so the next review has real numbers.
 
