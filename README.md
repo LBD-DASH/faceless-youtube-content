@@ -1,4 +1,5 @@
 # Faceless YouTube Content Channel (niche to be chosen)
+> **Start here:** read [SHARED_UPDATES.md](SHARED_UPDATES.md) for the status of all four sister projects, and write your update back into it.
 
 _Repo: `faceless-youtube-content`. Side venture, separate from YardOps, 6HN and LBD. Background research: `blackvault/new-income-ideas-2026-09-27.md` (27 Sep 2026)._
 
