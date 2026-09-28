@@ -64,16 +64,19 @@ Book/merch and YouTube run in parallel with equal priority; each feeds the other
 ---
 
 ## Shift and leadership printables (shift-leadership-printables)
-Last updated: 2026-09-28 06:35 SAST (Printables Repo agent)
+Last updated: 2026-09-28 19:02 SAST (Claude, follow-up run)
 
 ### Done today
 - Day 2 log: link to logs/2026-09-28.md (progress + next content + first weekly metrics).
 - Prioritised One-on-One Meeting Template as next build (per Claude's Etsy demand research).
-- Full Canva layout + paste-ready Etsy listing draft for the 1:1 in today's log.
+- Full Canva layout brief + paste-ready Etsy listing draft for the 1:1 in today's log.
 - Merged SHARED_UPDATES across the four repos.
+- Follow-up: reformatted the 1:1 listing to SHOP_COPY.md style at etsy/LISTING_ONE_ON_ONE.md.
+- Follow-up: 5-point printability critique of the 1:1 layout at logs/critique-one-on-one-layout-2026-09-28.md.
 
 ### Next up
-- Layout the One-on-One Meeting Template in Canva from today's log (A4 + Letter PDFs into products/one-on-one-meeting-template/).
+- Layout the One-on-One Meeting Template in Canva from today's log (A4 + Letter PDFs into products/one-on-one-meeting-template/). Blocked this run: Canva MCP tool permission wasn't granted in this headless session — needs an interactive session to grant it, or Kevin to build Page 1 by hand from the brief in logs/2026-09-28.md.
+- Live Etsy re-check for "one on one meeting template" and "team check in template" (result count, top-5 USD prices, top-3 review counts) — also blocked this run: WebSearch permission wasn't granted headless. Still only has the 27 Sep figures in logs/research-etsy-demand.md.
 - Draft Weekly Team Check-in Sheet next.
 - Make build scripts runnable from the repo alone.
 - [KEVIN] Is the Shift Handover Sheet listing approved to go live on LBDShopSA? (yes/no)
@@ -81,31 +84,32 @@ Last updated: 2026-09-28 06:35 SAST (Printables Repo agent)
 - [KEVIN] Use Claude's improved title/13 tags/description for the Shift Handover Sheet, or keep etsy/SHOP_COPY.md? (swap / keep)
 - [KEVIN] Etsy seller + Payments and Gumroad status? (open / pending / not started)
 - [KEVIN] Canva Free or Pro, and have you checked Canva's licence for selling templates? (Free / Pro)
+- [KEVIN] Grant WebSearch and Canva MCP tool permissions for this repo's headless daily runs, so live Etsy checks and Canva builds don't need an interactive session each time? (yes / no)
 
 ### Instructions for Claude and ChatGPT
-1. Turn the One-on-One Meeting Template draft in logs/2026-09-28.md into a paste-ready listing block matching etsy/SHOP_COPY.md style (title/13 tags/full description). Save as etsy/LISTING_ONE_ON_ONE.md or append to the log.
-2. Live Etsy re-check for "one on one meeting template" and "team check in template" only: result count, top-5 prices USD, top-3 review counts. Append a dated table to logs/research-etsy-demand.md.
-3. Critique the 1:1 page layout in today's log for printability (line height, section order, missing fields a real first-time manager needs). Output 5 specific fix suggestions as a numbered list in the log or a short file under logs/.
+1. Live Etsy re-check for "one on one meeting template" and "team check in template" only: result count, top-5 prices USD, top-3 review counts. Append a dated table to logs/research-etsy-demand.md. (Needs WebSearch or a browsing tool — not available in this repo's headless run.)
+2. Build the One-on-One Meeting Template Page 1 in Canva from the brief in logs/2026-09-28.md and the Canva create-design brief in the 19:02 SAST follow-up note in that same log, then export A4 + Letter PDFs into products/one-on-one-meeting-template/. (Needs Canva tool access — not available in this repo's headless run.)
+3. None else today.
 
 ## AI stock images (ai-stock-images)
-Last updated: 2026-09-28 06:35 SAST (Grok Bot, Day 2 daily run + Monday weekly metrics)
+Last updated: 2026-09-28 19:11 SAST (Claude Code, Instructions follow-up)
 
 ### Done today
-- Day 2 of the 30-day plan logged in [`logs/2026-09-28.md`](https://github.com/LBD-DASH/ai-stock-images/blob/main/logs/2026-09-28.md): progress check, next-content batch, and first weekly metrics review (Monday).
-- New niche-themed batch of 36 image prompts (titles + keywords + AI disclosure notes): Diwali/late-autumn festive still-life; soft wedding/engagement still-life (no people); material-specific textures (terrazzo, marble, linen). Chosen from Day 1 theme validation niches, not repeats of Day 1's broad holiday/Q1/abstract lists.
-- Weekly metrics review: all upload/acceptance/download/earnings figures are unknown (none in the repo yet). Recommendation: **adjust**. Keep the project, stop inventing more theme batches until Kevin creates the Adobe account and approves a generator.
+- Day 2 of the 30-day plan logged in [`logs/2026-09-28.md`](https://github.com/LBD-DASH/ai-stock-images/blob/main/logs/2026-09-28.md): progress check, next-content batch, and first weekly metrics review (Monday), by the earlier daily run.
+- Pilot prompt shortlist done: 10 best niche prompts (wooden-blocks growth, Diwali, terrazzo/marble/linen) with title templates and keywords, saved to [`from-cto-new/pilot-prompt-shortlist-2026-09-28.md`](https://github.com/LBD-DASH/ai-stock-images/blob/main/from-cto-new/pilot-prompt-shortlist-2026-09-28.md).
+- Firefly stock-resale confirmation and Contributor setup checklist **not done**: this session had no web search/fetch permission, so both were left undone rather than fabricating quotes or guessing Adobe help URLs. Carried over below. See `logs/2026-09-28.md` results section for detail.
 - Still no images generated or uploaded. No money spent, no API keys created, no stock uploads.
 
 ### Next up
 - **[KEVIN]** Create the Adobe Stock Contributor account (ID check, W-8BEN, PayPal)? (yes started / not yet)
 - **[KEVIN]** Approve Adobe Firefly Premium + Topaz Gigapixel Personal (≈R283/mo), or compare more? (approve / compare more)
 - **[KEVIN]** Add `blackvault/new-income-ideas-2026-09-27.md` to `from-cto-new/`, or confirm it is not needed? (add it / not needed)
-- Once both account and generator exist: generate a pilot of ~30 keepers from the lowest-saturation niches (Diwali, wooden-blocks growth, terrazzo/marble/linen), then curate, upscale, QA and upload with the generative-AI box ticked on every file.
+- **[KEVIN]** Can web search/fetch be enabled for the daily headless run (or granted once interactively), so the two blocked research items below can be completed with real sources? (enable / grant once / skip these items)
+- Once account and generator exist: generate the pilot of 30 keepers using `from-cto-new/pilot-prompt-shortlist-2026-09-28.md`, then curate, upscale, QA and upload with the generative-AI box ticked on every file.
 
 ### Instructions for Claude and ChatGPT
-1. **Firefly stock-resale confirmation.** Check Adobe Firefly's current terms of use for whether outputs may be submitted to Adobe Stock for commercial licensing/resale. Return a short answer (yes / no / unclear) plus 3 to 5 quoted bullets with source URLs. Save as `from-cto-new/firefly-stock-resale-2026-09-28.md`. Do not sign up or buy anything.
-2. **Pilot prompt shortlist.** From `logs/2026-09-27.md` and `logs/2026-09-28.md`, pick the 10 best niche prompts for a first generation pilot (prefer Diwali, wooden-blocks growth, terrazzo/marble/linen). Output a numbered list with prompt text, title template and the first 10 keywords each. Save as `from-cto-new/pilot-prompt-shortlist-2026-09-28.md`.
-3. **Contributor setup checklist.** Write a one-page Adobe Stock Contributor setup checklist for a South African individual (account, ID verify, W-8BEN, PayPal, first-upload AI disclosure). Bullet list with official Adobe help links. Save as `docs/adobe-contributor-setup.md`.
+1. **Firefly stock-resale confirmation (carried over, blocked 28 Sep for lack of web access).** Check Adobe Firefly's current terms of use for whether outputs may be submitted to Adobe Stock for commercial licensing/resale. Return a short answer (yes / no / unclear) plus 3 to 5 quoted bullets with source URLs. Save as `from-cto-new/firefly-stock-resale-YYYY-MM-DD.md`. Do not sign up or buy anything.
+2. **Contributor setup checklist (carried over, blocked 28 Sep for lack of web access).** Write a one-page Adobe Stock Contributor setup checklist for a South African individual (account, ID verify, W-8BEN, PayPal, first-upload AI disclosure). Bullet list with official Adobe help links. Save as `docs/adobe-contributor-setup.md`.
 
 ## Princess Baylin (princess-baylin), the pipeline's source
 Last updated: 2026-09-28 06:42 SAST (Princess Baylin Repo agent)
