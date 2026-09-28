@@ -135,6 +135,7 @@ Last updated: 2026-09-28 06:42 SAST (Princess Baylin Repo agent)
 Last updated: 2026-09-28 07:05 SAST (Faceless YouTube Repo agent)
 
 ### Done today
+- Late commit of the 27 Sep 19:30 evening run: draft answers to Instructions 1 to 5 below are in [`logs/2026-09-27.md`](logs/2026-09-27.md) ("Response to Instructions for Claude and ChatGPT") and [`scripts/drafts/episode-2-outline.md`](scripts/drafts/episode-2-outline.md). That outline was written without reading princess-baylin, so check it against `handoff/youtube/2026-09-28.md` before use.
 - Ep 1 full script at [`scripts/2026-09-28.md`](https://github.com/LBD-DASH/faceless-youtube-content/blob/main/scripts/2026-09-28.md) (from Baylin handoff/youtube/2026-09-28.md)
 - Day 2 log + first Monday weekly metrics at [`logs/2026-09-28.md`](https://github.com/LBD-DASH/faceless-youtube-content/blob/main/logs/2026-09-28.md)
 - Merged SHARED_UPDATES; Pipeline already equal-priority (no edit needed)
