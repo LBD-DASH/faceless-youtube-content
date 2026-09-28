@@ -112,42 +112,42 @@ Last updated: 2026-09-28 19:11 SAST (Claude Code, Instructions follow-up)
 2. **Contributor setup checklist (carried over, blocked 28 Sep for lack of web access).** Write a one-page Adobe Stock Contributor setup checklist for a South African individual (account, ID verify, W-8BEN, PayPal, first-upload AI disclosure). Bullet list with official Adobe help links. Save as `docs/adobe-contributor-setup.md`.
 
 ## Princess Baylin (princess-baylin), the pipeline's source
-Last updated: 2026-09-28 06:42 SAST (Princess Baylin Repo agent)
+Last updated: 2026-09-28 19:23 SAST (Princess Baylin Repo agent, follow-up run)
 
 ### Done today
 - YouTube handoff for Episode 1 at [`handoff/youtube/2026-09-28.md`](https://github.com/LBD-DASH/princess-baylin/blob/main/handoff/youtube/2026-09-28.md): beats, cast, lesson, hook, visual notes (EN primary; AF/ZU flagged).
 - Day 2 log at [`logs/2026-09-28.md`](https://github.com/LBD-DASH/princess-baylin/blob/main/logs/2026-09-28.md): progress check, first ~12-spread picture-book manuscript (EN + AF/ZU flagged), 5 merch concepts, Monday weekly metrics baseline (recommend adjust).
 - Recurring bedtime thank-you ritual noted for every episode ending.
 - Pipeline equal-priority line already present; no further Pipeline edit needed.
+- Follow-up (instructions 1 and 2 below): [`docs/character-sheet-draft.md`](https://github.com/LBD-DASH/princess-baylin/blob/main/docs/character-sheet-draft.md) (Baylin, Tilly, Rainbird, placeholder hex palette) and [`reviews/2026-09-28-language.md`](https://github.com/LBD-DASH/princess-baylin/blob/main/reviews/2026-09-28-language.md) (non-native read-through of the manuscript's AF/ZU spreads, 4 items flagged for a real native-speaker check).
 
 ### Next up
 - Refine the picture-book manuscript (do not restart) once placeholders are confirmed or replaced.
-- YouTube agent should build Ep 1 script from today's handoff at 06:43 SAST.
-- Sketch a one-page character sheet for Baylin, Tilly and the Rainbird after Kevin's call on names.
 - [KEVIN] Add the original story to `assets/story/` with identifying details removed? (yes this week / not yet)
-- [KEVIN] Keep placeholder names Tilly, Sunhill and Rainbird, or replace them? (keep / replace)
+- [KEVIN] Keep placeholder names Tilly, Sunhill and Rainbird, or replace them (see `docs/character-sheet-draft.md`)? (keep / replace)
 - [KEVIN] Name one Afrikaans and one isiZulu native-speaker reviewer? (names ready / not yet)
 - [KEVIN] Approve Episode 1 direction (listening + teamwork, soft rain, thank-you bedtime ritual) for book and YouTube? (yes / changes needed)
+- Once WebSearch/browsing is available in a headless run: the KDP trim checklist and merch pricing sanity check below (both blocked today for lack of web access, not attempted rather than guessed).
 
 ### Instructions for Claude and ChatGPT
-1. **Language review of the book draft.** Read the Afrikaans and isiZulu manuscript sections in `logs/2026-09-28.md`. Output a markdown table with columns `language`, `spread`, `original`, `suggested`, `reason`. Save as `reviews/2026-09-28-language.md`. State that a human native speaker must still confirm.
-2. **Character sheet draft.** From Day 1 and Day 2 logs, draft a one-page character sheet for Baylin, Tilly and the Rainbird: appearance bullets, catchphrase, one gentle flaw each, and a shared colour palette (hex codes). Save as `docs/character-sheet-draft.md`. No real child likeness.
-3. **KDP trim checklist.** Research current Amazon KDP picture-book trim sizes suitable for ~24–32 pages with bleed. Output a short checklist with official source links at `docs/kdp-specs.md` (create or overwrite).
-4. **Merch pricing sanity check.** For the five merch concepts in `logs/2026-09-28.md`, list comparable Etsy or POD price bands in ZAR or USD with 2 to 3 example listing links each (or "not found"). Save as `logs/research-merch-pricing-2026-09-28.md`.
+1. **KDP trim checklist (carried over, blocked 28 Sep for lack of web access).** Research current Amazon KDP picture-book trim sizes suitable for ~24-32 pages with bleed. Output a short checklist with official source links at `docs/kdp-specs.md`.
+2. **Merch pricing sanity check (carried over, blocked 28 Sep for lack of web access).** For the five merch concepts in `logs/2026-09-28.md`, list comparable Etsy or POD price bands in ZAR or USD with 2 to 3 example listing links each (or "not found"). Save as `logs/research-merch-pricing-YYYY-MM-DD.md`.
+3. None else today.
 
 ## Faceless YouTube content (faceless-youtube-content), Princess Baylin bedtime-story channel (runs in parallel with princess-baylin)
-Last updated: 2026-09-28 07:05 SAST (Faceless YouTube Repo agent)
+Last updated: 2026-09-28 19:40 SAST (Faceless YouTube Repo agent, follow-up run)
 
 ### Done today
-- Late commit of the 27 Sep 19:30 evening run: draft answers to Instructions 1 to 5 below are in [`logs/2026-09-27.md`](logs/2026-09-27.md) ("Response to Instructions for Claude and ChatGPT") and [`scripts/drafts/episode-2-outline.md`](scripts/drafts/episode-2-outline.md). That outline was written without reading princess-baylin, so check it against `handoff/youtube/2026-09-28.md` before use.
 - Ep 1 full script at [`scripts/2026-09-28.md`](https://github.com/LBD-DASH/faceless-youtube-content/blob/main/scripts/2026-09-28.md) (from Baylin handoff/youtube/2026-09-28.md)
 - Day 2 log + first Monday weekly metrics at [`logs/2026-09-28.md`](https://github.com/LBD-DASH/faceless-youtube-content/blob/main/logs/2026-09-28.md)
-- Merged SHARED_UPDATES; Pipeline already equal-priority (no edit needed)
+- Follow-up: checked [`scripts/drafts/episode-2-outline.md`](scripts/drafts/episode-2-outline.md) against the real `princess-baylin/handoff/youtube/2026-09-28.md` (only Ep 1 handoff exists so far). Cast (Tilly, Kingdom of Sunhill), tone, and the callback to Baylin's "shout first" instinct all match Ep 1 canon. No changes needed; still a draft pending Kevin's canon calls and Baylin's own Ep 2 handoff when it lands.
+- Confirmed the 27 Sep instructions (channel name shortlist, narrator brief, AF/ZU TTS check, thumbnail style guide) are already answered in [`logs/2026-09-27.md`](logs/2026-09-27.md) ("Response to Instructions for Claude and ChatGPT"); not duplicated into separate files since the original instructions allowed pasting into the log.
+- Committed a leftover unstaged `SHARED_UPDATES.md` edit from an earlier session, then merged in princess-baylin's newer 19:23 SAST section (character sheet + language review follow-up) which hadn't reached this repo yet.
 
 ### Next up
 - Hold production until Kevin answers open decisions below; do not create a channel, spend money, or buy API keys.
 - After script approval: build a simple 12-scene shot board from the visual plan in `scripts/2026-09-28.md` (still drafts only).
-- Keep Episode 2 as "Princess Baylin and the Sleepy Moon" (patience / night sky) once Baylin confirms beats.
+- Keep Episode 2 as "Princess Baylin and the Sleepy Moon" (patience / night sky) once Baylin sends its own handoff to confirm beats.
 - [KEVIN] Approve Ep 1 English VO in `scripts/2026-09-28.md`? (yes / changes needed)
 - [KEVIN] Keep placeholders Tilly, Sunhill, Rainbird? (keep / replace)
 - [KEVIN] Narrator for English: own voice, family voice, or disclosed Kokoro TTS? (own / family / Kokoro)
@@ -157,11 +157,7 @@ Last updated: 2026-09-28 07:05 SAST (Faceless YouTube Repo agent)
 - [KEVIN] AI disclosure: always disclose AI voice or music, or only when YouTube strictly requires it? (always / strict-only)
 
 ### Instructions for Claude and ChatGPT
-1. **Episode 2 outline.** Read princess-baylin `handoff/youtube/2026-09-28.md` and faceless-youtube-content `scripts/2026-09-28.md` (Ep 1 close teases Sleepy Moon). Write an outline for "Princess Baylin and the Sleepy Moon": 12 numbered scene beats (one or two sentences each), the lesson in one line (patience), a hook line for the first 15 seconds, and one visual note per scene. Night-sky setting. Save as `scripts/drafts/episode-2-outline.md` in faceless-youtube-content, or paste into chat for Kevin.
-2. **Channel name shortlist.** Propose 10 channel names for a calm children's bedtime-story channel starring Princess Baylin. For each: name, one-line reason, and whether the matching @handle looks free (say "not checked" if you can't check). Plain markdown table. Paste in chat or save under `logs/channel-name-shortlist.md`.
-3. **Narrator decision brief for Kevin.** In under 200 words, compare three options: Kevin's own voice, a family member's voice, and Kokoro-82M TTS (free, Apache 2.0, English only). Cover cost, time per episode, trust with parents, and YouTube's inauthentic-content risk. End with one recommendation. Paste in chat or save as `logs/narrator-brief.md`.
-4. **Afrikaans and isiZulu TTS question.** Is there any text-to-speech voice for Afrikaans or isiZulu that is free and licensed for commercial use? List each candidate with licence and source link. If none, write "None found". Paste in chat or save as `logs/af-zu-tts-check.md`.
-5. **Thumbnail style guide.** One-page guide for a hand-drawn or flat-illustration thumbnail style safe for made-for-kids: palette (hex codes), free fonts only, one layout rule, and 3 do/don't pairs. No real child's likeness. Save as `docs/thumbnail-style-guide.md` or paste in chat.
+None today.
 
 ---
 
@@ -179,3 +175,4 @@ Last updated: 2026-09-28 07:05 SAST (Faceless YouTube Repo agent)
 - 2026-09-28 07:05 SAST (Faceless YouTube Repo agent) for princess-baylin: **Story/character requests from Ep 1 scripting.** (1) Character sheet for Baylin, Tilly, and the Rainbird is still needed before production art (appearance, catchphrase, one gentle flaw, shared palette). (2) Episode 2 confirmed on the YouTube side as "Princess Baylin and the Sleepy Moon" with a patience theme and night-sky setting; please send a handoff when ready. (3) Thank-you bedtime ritual from your handoff is locked into the Ep 1 script close.
 - 2026-09-28 07:05 SAST (Faceless YouTube Repo agent) for princess-baylin: **Watch-time title/theme ideas (calm).** Keep using series-consistent "Princess Baylin and the..." titles. Ep 1 title options used: Lost Rain Song / Listens for the Rain / The Day the Rain Song Came Home. Still strong for later: Quiet Star, River That Whispered, Very Patient Tortoise, Says Sorry. Avoid distress-bait and keyword stuffing.
 - 2026-09-28 07:05 SAST (Faceless YouTube Repo agent) for princess-baylin: **Book/merch ideas sparked by the Ep 1 script.** (1) Printable "Listen... what do you hear?" bedtime listening card (matches the mid-story child pause). (2) Rain-song colouring set: frogs (drum), grasshoppers (patter), grandmother tree (hum), Rainbird (tune). (3) Trilingual thank-you poster: "Thank you, friends!" / "Dankie, vriende!" / "Siyabonga, bangane!" after native-speaker check. Shop/KDP URL stays a placeholder in the YouTube description until Kevin approves.
+- 2026-09-28 19:40 SAST (Faceless YouTube Repo agent) for all repos: **princess-baylin's local clone is stuck mid interactive-rebase** (`git status` there shows "interactive rebase in progress; onto 9e33972", paused on commit "daily: princess-baylin 2026-09-28" while amending, with "shared: princess-baylin update 2026-09-28" still queued to pick). Not touched by this run since it's outside faceless-youtube-content's scope and a rebase mid-flight is easy to make worse from outside. The princess-baylin agent (or Kevin, with `git rebase --continue` or `--abort` after checking `git status`/`git diff` there) needs to resolve it before that repo's next commit will go through cleanly.
