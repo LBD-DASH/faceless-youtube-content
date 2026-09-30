@@ -114,9 +114,10 @@ Last updated: 2026-09-30 14:45 SAST (Claude, afternoon follow-up)
 None today.
 
 ## Princess Baylin (princess-baylin), the pipeline's source
-Last updated: 2026-09-30 15:10 SAST (Princess Baylin agent, second run)
+Last updated: 2026-09-30 16:36 SAST (Princess Baylin agent, third pass)
 
 ### Done today
+- Third pass: re-tried WebSearch/WebFetch directly; both still return a permission error in this headless session (same block as 28/29/30 Sep). No new content added this pass to avoid duplicating the second run; see logs/2026-09-30.md "Third pass" section.
 - YouTube handoff for Episode 3 at handoff/youtube/2026-09-30.md: Quiet Star, quiet courage / small lights matter, soft dusk-to-night; beats/cast/lesson/hook/visuals (EN primary; AF/ZU flagged).
 - Day 4 log at logs/2026-09-30.md: progress check; light Ep 2 picture-book refine; first Ep 3 ~12-spread manuscript; 5 merch concepts (no weekly metrics; not Monday).
 - docs/character-sheet-draft.md now has Sleepy Moon and Quiet Star rows (appearance, catchphrase, gentle flaw), matching the Baylin/Tilly/Rainbird format. All five named cast members now on the sheet.
@@ -124,13 +125,14 @@ Last updated: 2026-09-30 15:10 SAST (Princess Baylin agent, second run)
 - reviews/2026-09-30-language.md: non-native read-through of the Ep 2 refine + new Ep 3 AF/ZU spreads (5 Afrikaans + 4 isiZulu items flagged, including a recurring "mid cue" / "cameo" loanword pattern worth one consistent decision). Not a native-speaker check.
 - Pipeline equal-priority wording already present; no Pipeline edit needed.
 - assets/story/ still missing the original story (404).
-- Closed: the owl is named Bonayo (English and Afrikaans Bonayo; isiZulu uBonayo). The "owl unnamed" decision is closed. Recorded in CLAUDE.md canon cast. NEEDS NATIVE-SPEAKER CHECK on the Afrikaans and isiZulu name lines.
-- Closed: YouTube channel name is Princess Baylin Diaries (spoken "Princess Balin Diaries"). Each episode keeps its own title. The channel is live at https://www.youtube.com/@PrincessBaylinDiaries, made for kids. Handoff template: handoff/youtube/TEMPLATE.md.
+- Closed: the owl is named Bonayo (English and Afrikaans Bonayo; isiZulu uBonayo). The "owl unnamed" decision is closed. Recorded in CLAUDE.md canon cast. No unnamed-owl wording was present in this repo's episode scripts, manuscripts, or handoff/youtube files.
+- Closed: YouTube channel name is Princess Baylin Diaries (spoken "Princess Balin Diaries"). Each episode keeps its own title.
 - Closed: Episodes 1 to 3 are approved (Lost Rain Song, Sleepy Moon, Quiet Star).
-- Closed: voices are three separate dedicated voices, one per language (English, Afrikaans, isiZulu), never a single South African-accented English voice. Applies to Episodes 1 to 3 and all future episodes. No voice IDs assigned.
+- Closed: voices are three separate dedicated voices, one per language (English, Afrikaans, isiZulu). Never a single South African-accented English voice. Applies to Episodes 1 to 3 and all future episodes.
 - Closed: narrator is an old wise man with a warm, deep storytelling tone (not young, not neutral). Applies to Episodes 1 to 3 and all future episodes in English, Afrikaans and isiZulu, each language with its own dedicated voice.
 - Closed: art style looks like an old man drawing for his granddaughter. Hand-drawn, warm, personal storybook style (pencil, crayon or soft watercolour, sketchbook feel). Applies to Episodes 1 to 3 and all future episodes.
 - Closed: AI disclosure is always on. Channel About, every video description (Episodes 1 to 3 and future), and a brief on-screen card at the start or end use exactly: "Created from Kevin's stories, brought to life with AI." No other disclosure wording.
+- Channel is live: Princess Baylin Diaries, https://www.youtube.com/@PrincessBaylinDiaries, set as made for kids. Handoff template: handoff/youtube/TEMPLATE.md.
 
 ### Next up
 - Keep refining Ep 1–3 manuscripts once placeholders are confirmed or replaced.
