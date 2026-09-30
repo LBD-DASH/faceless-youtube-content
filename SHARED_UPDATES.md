@@ -146,19 +146,21 @@ Last updated: 2026-09-30 15:10 SAST (Princess Baylin agent, second run)
 3. Character sheet (all five cast members) and both 29/30 Sep language read-throughs are done and on main — no need to redo any of them.
 
 ## Faceless YouTube content (faceless-youtube-content), Princess Baylin bedtime-story channel (runs in parallel with princess-baylin)
-Last updated: 2026-09-30 15:15 SAST (Faceless YouTube Repo agent, follow-up run)
+Last updated: 2026-09-30 16:36 SAST (Faceless YouTube Repo agent, second follow-up run)
 
 ### Done today
 - Episode 3 full production script at [`scripts/2026-09-30.md`](https://github.com/LBD-DASH/faceless-youtube-content/blob/main/scripts/2026-09-30.md) (built from princess-baylin [`handoff/youtube/2026-09-30.md`](https://github.com/LBD-DASH/princess-baylin/blob/main/handoff/youtube/2026-09-30.md))
 - Day 4 log at [`logs/2026-09-30.md`](https://github.com/LBD-DASH/faceless-youtube-content/blob/main/logs/2026-09-30.md) (progress check; weekly metrics skipped, not Monday)
 - Follow-up run (2026-09-29, folded in): [`logs/critique-ep2-2026-09-29.md`](https://github.com/LBD-DASH/faceless-youtube-content/blob/main/logs/critique-ep2-2026-09-29.md) (pacing/word count/kid-safety, 7 fixes) and [`scripts/drafts/episode-2-shotboard.md`](https://github.com/LBD-DASH/faceless-youtube-content/blob/main/scripts/drafts/episode-2-shotboard.md) (12-scene shot board).
 - **Ep 2 script/handoff mismatch is resolved:** Kevin's 2026-09-30 canon decision approved Episodes 1 to 3 as they stand (Lost Rain Song, Sleepy Moon, Quiet Star), so `scripts/2026-09-29.md` ("Baylin fetches the moon") stays as written; no rebuild from the later handoff.
-- Follow-up run (2026-09-30, this run): [`logs/critique-ep3-2026-09-30.md`](https://github.com/LBD-DASH/faceless-youtube-content/blob/main/logs/critique-ep3-2026-09-30.md) (pacing/word count/kid-safety, 7 fixes, including flagging the unresolved firefly-vs-moth choice) and [`scripts/drafts/episode-3-shotboard.md`](https://github.com/LBD-DASH/faceless-youtube-content/blob/main/scripts/drafts/episode-3-shotboard.md) (12-scene shot board; picked firefly as the working creature, flagged for Kevin to confirm).
+- Follow-up run (2026-09-30, first): [`logs/critique-ep3-2026-09-30.md`](https://github.com/LBD-DASH/faceless-youtube-content/blob/main/logs/critique-ep3-2026-09-30.md) (pacing/word count/kid-safety, 7 fixes, including flagging the unresolved firefly-vs-moth choice) and [`scripts/drafts/episode-3-shotboard.md`](https://github.com/LBD-DASH/faceless-youtube-content/blob/main/scripts/drafts/episode-3-shotboard.md) (12-scene shot board; picked firefly as the working creature, flagged for Kevin to confirm).
 - Resolved a stuck local rebase (SHARED_UPDATES.md conflict against origin) and merged the newest per-section content from all four sister repos' local copies (Printables 14:47 SAST, AI stock images 14:45 SAST, Princess Baylin 15:10 SAST) into this file.
+- Follow-up run (2026-09-30, second, this run): checked princess-baylin for a newer handoff — none since `handoff/youtube/2026-09-30.md` (already used) — and confirmed this repo's "Instructions for Claude and ChatGPT" was empty today, so no new production was blocked or owed. Filled the one remaining gap: [`scripts/drafts/episode-1-shotboard.md`](https://github.com/LBD-DASH/faceless-youtube-content/blob/main/scripts/drafts/episode-1-shotboard.md) (12-scene shot board for the approved Ep 1 script, matching the Ep 2/Ep 3 format). All three approved episodes now have shot boards.
+- Pushed two previously-local commits (2026-09-29 and 2026-09-30 follow-ups) to origin/main so sister repos read current state.
 
 ### Next up
 - Hold production until Kevin answers open decisions below; do not create a channel, spend money, or buy API keys.
-- After Ep 1 / Ep 2 / Ep 3 approval: build simple 12-scene shot boards from the visual plans (still drafts only) — Ep 2 and Ep 3 boards now done; confirm firefly vs. moth in Ep 3 before art starts.
+- All three approved episodes (Ep 1, Ep 2, Ep 3) now have 12-scene shot boards (drafts only). Confirm firefly vs. moth in Ep 3 before art starts.
 - Princess Baylin's character sheet now has all five cast members including Quiet Star and Sleepy Moon; no further ask needed there.
 - [KEVIN] Approve Ep 1 English VO in `scripts/2026-09-28.md`? (yes / changes needed)
 - [KEVIN] Approve Ep 2 English VO in `scripts/2026-09-29.md`? (yes / changes needed)
