@@ -113,7 +113,7 @@ Last updated: 2026-09-30 06:35 SAST (Grok Bot, Day 4 daily run)
 None today.
 
 ## Princess Baylin (princess-baylin), the pipeline's source
-Last updated: 2026-09-30 09:22 SAST (Princess Baylin Repo agent)
+Last updated: 2026-09-30 09:25 SAST (Princess Baylin Repo agent)
 
 ### Done today
 - YouTube handoff for Episode 3 at handoff/youtube/2026-09-30.md: Quiet Star, quiet courage / small lights matter, soft dusk-to-night; beats/cast/lesson/hook/visuals (EN primary; AF/ZU flagged).
@@ -122,9 +122,12 @@ Last updated: 2026-09-30 09:22 SAST (Princess Baylin Repo agent)
 - Pipeline equal-priority wording already present; no Pipeline edit needed.
 - assets/story/ still missing the original story (404).
 - Kevin decided (2026-09-30): the owl is named Bonayo (isiZulu uBonayo; Afrikaans Bonayo). The unnamed-owl question is closed. NEEDS NATIVE-SPEAKER CHECK on the Afrikaans and isiZulu name lines.
-- Kevin decided (2026-09-30): the YouTube channel is Princess Baylin Diaries (spoken Princess Balin Diaries). Each episode keeps its own title. The channel-name question is closed.
+- Kevin decided (2026-09-30): the YouTube channel is Princess Baylin Diaries (spoken Princess Balin Diaries). Each episode keeps its own title. The channel-name question is closed. The channel is live at https://www.youtube.com/@PrincessBaylinDiaries, made for kids.
 - Kevin decided (2026-09-30): Episodes 1 to 3 are approved (Lost Rain Song, Sleepy Moon, Quiet Star).
 - Kevin decided (2026-09-30): three separate dedicated voices, one per language (English, Afrikaans, isiZulu), never a single South African-accented English voice. Applies to Episodes 1 to 3 and all future episodes. No voice IDs assigned. The single-voice question is closed.
+- Kevin decided (2026-09-30, about 09:19 SAST): the narrator is an old wise man with a warm, deep storytelling tone (not young, not neutral), for Episodes 1 to 3 and all future episodes, with a dedicated voice for each of English, Afrikaans and isiZulu.
+- Kevin decided (2026-09-30, about 09:20 SAST): art style looks like an old man drawing for his granddaughter. Hand-drawn, warm, personal storybook style (pencil, crayon or soft watercolour, sketchbook feel).
+- Kevin decided (2026-09-30, about 09:20 SAST): AI disclosure on the channel About, every video description (Episodes 1 to 3 and future), and a brief on-screen card at the start or end uses only this wording: "Created from Kevin's stories, brought to life with AI."
 
 ### Next up
 - Keep refining Ep 1–3 manuscripts once placeholders are confirmed or replaced.
@@ -197,3 +200,4 @@ Last updated: 2026-09-30 06:48 SAST (Faceless YouTube Repo agent)
 - 2026-09-30 06:48 SAST (Faceless YouTube Repo agent) for princess-baylin: **Watch-time title/theme ideas.** Ep 3 titles: Quiet Star / Finds the Quiet Star / The Night a Small Star Helped. Still strong later: River That Whispered, Says Sorry, Very Patient Tortoise. Series-consistent Princess Baylin and the... Avoid distress-bait.
 - 2026-09-30 06:48 SAST (Faceless YouTube Repo agent) for princess-baylin: **Book/merch ideas from Ep 3.** (1) Printable "Shine soft and small" kindness card matching mid cue. (2) Quiet Star dusk colouring page (garden path, shy star in cloud, firefly/moth, Tilly). (3) Small lights matter poster after native AF/ZU check. Shop/KDP URL stays placeholder until Kevin approves.
 - 2026-09-30 09:22 SAST (Princess Baylin Repo agent): Kevin decided four Princess Baylin canon points. (1) The owl is named Bonayo (isiZulu uBonayo; Afrikaans Bonayo; NEEDS NATIVE-SPEAKER CHECK on the language lines). (2) The YouTube channel is Princess Baylin Diaries (spoken Princess Balin Diaries); each episode keeps its own title. (3) Episodes 1 to 3 are approved: Lost Rain Song, Sleepy Moon, Quiet Star. (4) Voices: three separate dedicated voices, one per language (English, Afrikaans, isiZulu), never a single South African-accented English voice, for Episodes 1 to 3 and all future episodes. No voice IDs assigned.
+- 2026-09-30 09:25 SAST (Princess Baylin Repo agent): Kevin decided three more Princess Baylin canon points (about 09:19 to 09:20 SAST). (1) Narrator: an old wise man with a warm, deep storytelling tone (not young, not neutral), for Episodes 1 to 3 and all future episodes, with a dedicated voice for each of English, Afrikaans and isiZulu. (2) Art style: looks like an old man drawing for his granddaughter. Hand-drawn, warm, personal storybook style (pencil, crayon or soft watercolour, sketchbook feel). (3) AI disclosure uses only this wording on the channel About, in every video description (Episodes 1 to 3 and future), and on a brief on-screen card at the start or end: "Created from Kevin's stories, brought to life with AI." The channel is live: Princess Baylin Diaries, https://www.youtube.com/@PrincessBaylinDiaries, made for kids.
