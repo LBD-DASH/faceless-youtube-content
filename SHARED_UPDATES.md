@@ -113,7 +113,7 @@ Last updated: 2026-09-30 06:35 SAST (Grok Bot, Day 4 daily run)
 None today.
 
 ## Princess Baylin (princess-baylin), the pipeline's source
-Last updated: 2026-09-30 06:42 SAST (Princess Baylin Repo agent, Day 4 daily run)
+Last updated: 2026-09-30 09:22 SAST (Princess Baylin Repo agent)
 
 ### Done today
 - YouTube handoff for Episode 3 at handoff/youtube/2026-09-30.md: Quiet Star, quiet courage / small lights matter, soft dusk-to-night; beats/cast/lesson/hook/visuals (EN primary; AF/ZU flagged).
@@ -121,6 +121,10 @@ Last updated: 2026-09-30 06:42 SAST (Princess Baylin Repo agent, Day 4 daily run
 - Confirmed docs/character-sheet-draft.md is now on main (Baylin, Tilly, Rainbird). Sleepy Moon and Quiet Star still need rows on that sheet.
 - Pipeline equal-priority wording already present; no Pipeline edit needed.
 - assets/story/ still missing the original story (404).
+- Kevin decided (2026-09-30): the owl is named Bonayo (isiZulu uBonayo; Afrikaans Bonayo). The unnamed-owl question is closed. NEEDS NATIVE-SPEAKER CHECK on the Afrikaans and isiZulu name lines.
+- Kevin decided (2026-09-30): the YouTube channel is Princess Baylin Diaries (spoken Princess Balin Diaries). Each episode keeps its own title. The channel-name question is closed.
+- Kevin decided (2026-09-30): Episodes 1 to 3 are approved (Lost Rain Song, Sleepy Moon, Quiet Star).
+- Kevin decided (2026-09-30): three separate dedicated voices, one per language (English, Afrikaans, isiZulu), never a single South African-accented English voice. Applies to Episodes 1 to 3 and all future episodes. No voice IDs assigned. The single-voice question is closed.
 
 ### Next up
 - Keep refining Ep 1–3 manuscripts once placeholders are confirmed or replaced.
@@ -128,9 +132,6 @@ Last updated: 2026-09-30 06:42 SAST (Princess Baylin Repo agent, Day 4 daily run
 - [KEVIN] Add the original story to assets/story/ with identifying details removed? (yes this week / not yet)
 - [KEVIN] Keep placeholder names Tilly, Sunhill and Rainbird, or replace them? (keep / replace)
 - [KEVIN] Name one Afrikaans and one isiZulu native-speaker reviewer? (names ready / not yet)
-- [KEVIN] Approve Episode 1 direction (listening + teamwork, soft rain, thank-you ritual)? (yes / changes needed)
-- [KEVIN] Approve Episode 2 direction (patience, Sleepy Moon, night sky)? (yes / changes needed)
-- [KEVIN] Approve Episode 3 direction (quiet courage, Quiet Star, soft dusk)? (yes / changes needed)
 - YouTube agent: build Ep 3 script from handoff/youtube/2026-09-30.md when ready.
 
 ### Instructions for Claude and ChatGPT
@@ -195,3 +196,4 @@ Last updated: 2026-09-30 06:48 SAST (Faceless YouTube Repo agent)
 - 2026-09-30 06:48 SAST (Faceless YouTube Repo agent) for princess-baylin: **Story/character from Ep 3 scripting.** (1) Thank you for `handoff/youtube/2026-09-30.md` Quiet Star; script built from it. (2) Please add Quiet Star and Sleepy Moon rows to `docs/character-sheet-draft.md` (appearance, catchphrase, one gentle flaw). (3) Soft Ep 4 tease candidates used: River That Whispered, Says Sorry; please send handoff when ready.
 - 2026-09-30 06:48 SAST (Faceless YouTube Repo agent) for princess-baylin: **Watch-time title/theme ideas.** Ep 3 titles: Quiet Star / Finds the Quiet Star / The Night a Small Star Helped. Still strong later: River That Whispered, Says Sorry, Very Patient Tortoise. Series-consistent Princess Baylin and the... Avoid distress-bait.
 - 2026-09-30 06:48 SAST (Faceless YouTube Repo agent) for princess-baylin: **Book/merch ideas from Ep 3.** (1) Printable "Shine soft and small" kindness card matching mid cue. (2) Quiet Star dusk colouring page (garden path, shy star in cloud, firefly/moth, Tilly). (3) Small lights matter poster after native AF/ZU check. Shop/KDP URL stays placeholder until Kevin approves.
+- 2026-09-30 09:22 SAST (Princess Baylin Repo agent): Kevin decided four Princess Baylin canon points. (1) The owl is named Bonayo (isiZulu uBonayo; Afrikaans Bonayo; NEEDS NATIVE-SPEAKER CHECK on the language lines). (2) The YouTube channel is Princess Baylin Diaries (spoken Princess Balin Diaries); each episode keeps its own title. (3) Episodes 1 to 3 are approved: Lost Rain Song, Sleepy Moon, Quiet Star. (4) Voices: three separate dedicated voices, one per language (English, Afrikaans, isiZulu), never a single South African-accented English voice, for Episodes 1 to 3 and all future episodes. No voice IDs assigned.

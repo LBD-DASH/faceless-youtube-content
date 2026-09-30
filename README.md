@@ -18,7 +18,7 @@ YouTube: long-form bedtime episodes of about 8–10 minutes, plus Shorts as trai
 - Realistic estimate: R0 for the first 6+ months.
 
 ## First 30 days
-- **Days 1–7:** Check YouTube's made-for-kids, AI-disclosure and monetisation rules (done 27 Sep, see `logs/2026-09-27.md`). Pick the free narration and visual tools. Write the Episode 1 script from the newest Baylin handoff or outline ("Princess Baylin and the Lost Rain Song"). **[KEVIN]** picks the narrator and channel name.
+- **Days 1–7:** Check YouTube's made-for-kids, AI-disclosure and monetisation rules (done 27 Sep, see `logs/2026-09-27.md`). Pick the free narration and visual tools. Write the Episode 1 script from the newest Baylin handoff or outline ("Princess Baylin and the Lost Rain Song"). **Decided (Kevin, 2026-09-30):** channel name is Princess Baylin Diaries (spoken Princess Balin Diaries); each episode keeps its own title. Voices: three separate dedicated voices, one per language (English, Afrikaans, isiZulu), never a single South African-accented English voice. No voice IDs assigned.
 - **Days 8–14:** Write a channel style guide (voice, pace, visual style, episode structure). Write scripts 2–3, each with a different setting and resolution. **[KEVIN]** sets up the channel when ready.
 - **Days 15–30:** Produce and publish 1–2 episodes a week (target 3–4 by day 30), each with a Short, all set as made for kids. Kevin reviews every video before publishing. Log views, click-through rate, retention and subscribers.
 
@@ -33,8 +33,8 @@ YouTube: long-form bedtime episodes of about 8–10 minutes, plus Shorts as trai
 - If each video needs more Kevin time than he'll give (more than about 1 hour a video): drop to one video a fortnight or stop.
 
 ## What only Kevin can do
-- Own the Google/YouTube account with 2FA, AdSense (ID and address), and tax info (W-8BEN). Choose the channel name.
-- Choose the narrator: his own or a family voice, or a disclosed AI voice. Find native-speaker narrators or reviewers for Afrikaans and isiZulu.
+- Own the Google/YouTube account with 2FA, AdSense (ID and address), and tax info (W-8BEN). Channel name is decided: Princess Baylin Diaries (spoken Princess Balin Diaries). Each episode keeps its own title. Creating the channel is still Kevin's.
+- Voices (Kevin, 2026-09-30): three separate dedicated voices, one per language (English, Afrikaans, isiZulu), never a single South African-accented English voice. No voice IDs assigned. Find native-speaker narrators or reviewers for Afrikaans and isiZulu.
 - Review each video before it's published.
 - Approve any paid tools after checking their licences allow YouTube monetisation.
 
