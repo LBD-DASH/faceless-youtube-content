@@ -134,7 +134,7 @@ Last updated: 2026-10-01 06:50 SAST (Grok Bot / Princess Baylin daily automation
 None today. Overnight Day 5 closed the two carried-over items (KDP trim checklist, merch pricing). Morning pass was TEMPLATE handoff refine + four-repo SHARED_UPDATES sync only.
 
 ## Faceless YouTube content (faceless-youtube-content), Princess Baylin bedtime-story channel (runs in parallel with princess-baylin)
-Last updated: 2026-10-01 06:48 SAST (Faceless YouTube Repo agent, Day 5)
+Last updated: 2026-10-01 SAST (Faceless YouTube Repo agent, Day 5 follow-up)
 
 ### Done today
 - Day 5 log at [`logs/2026-10-01.md`](https://github.com/LBD-DASH/faceless-youtube-content/blob/main/logs/2026-10-01.md): progress check (holding before production; weekly metrics skipped, not Monday).
@@ -142,21 +142,23 @@ Last updated: 2026-10-01 06:48 SAST (Faceless YouTube Repo agent, Day 5)
 - AF/ZU notes kept as NEEDS NATIVE-SPEAKER CHECK (handoff hook drafts + on-screen title/mid/close). Short 30-45s + visual plan + chapter markers included.
 - Sibling sections already newest on this merge base (Printables 06:25, AI stock 06:33, Princess Baylin Day 5); rewrote only this Faceless YouTube section and added Cross-project notes.
 - Small fix: [`scripts/drafts/episode-2-shotboard.md`](https://github.com/LBD-DASH/faceless-youtube-content/blob/main/scripts/drafts/episode-2-shotboard.md) row 5 still said "the owl" (pre-dating Kevin's 2026-09-30 Bonayo naming decision, which the Ep 2 script itself already uses throughout). Renamed the row to Bonayo. Ep 1 and Ep 3 shot boards don't feature the owl, so no other files needed this fix.
+- **Follow-up run:** resolved a stuck local rebase against `origin/main` (conflicts in SHARED_UPDATES.md and logs/2026-10-01.md from yesterday's superseded local commits; kept the newer origin side throughout). Completed today's Instructions item 1: critiqued Episode 4 pacing, word count, and kid-safety in [`logs/critique-ep4-2026-10-01.md`](https://github.com/LBD-DASH/faceless-youtube-content/blob/main/logs/critique-ep4-2026-10-01.md). Narration is about 1,131 words (in range); flagged the hook and closing beat as paced roughly twice as fast (words per minute) as the rest of the script, a child-pause line that references "sorry" when the on-screen mantra is "Mend... soft and true," and a possible title clash on option 2 ("Princess Baylin Says Sorry" was reserved for a future episode in the 2026-09-27 Cross-project notes). No kid-safety issues found.
 - Still no publish, no spend, no API keys. Episodes 1 to 3 remain approved; Episode 4 pending Kevin.
 
 ### Next up
 - Hold production until Kevin answers open decisions below; do not spend money or buy API keys.
 - All three approved episodes (Ep 1, Ep 2, Ep 3) have 12-scene shot boards (drafts only). Confirm firefly vs moth in Ep 3 before art starts.
-- Episode 4 script is staged; build Ep 4 shot board only after Kevin approves direction.
-- **[KEVIN]** Approve Episode 4 English VO in `scripts/2026-10-01.md` (River That Whispered / making amends)? (yes / changes needed)
+- Episode 4 script is staged; apply the pacing fixes in `logs/critique-ep4-2026-10-01.md` and build the Ep 4 shot board only after Kevin approves direction.
+- **[KEVIN]** Approve Episode 4 English VO in `scripts/2026-10-01.md` (River That Whispered / making amends), with or without the pacing fixes in `logs/critique-ep4-2026-10-01.md`? (yes / yes with fixes / changes needed)
 - **[KEVIN]** Keep placeholders Tilly, Sunhill, Rainbird, and Pip? (keep / replace)
 - **[KEVIN]** Confirm Ep 3's lost creature as a firefly or a moth? (firefly / moth)
 - **[KEVIN]** Language format: English first, or AF/ZU in parallel after native check? (EN first / parallel later)
 - **[KEVIN]** Approve soft Ep 5 tease title "Princess Baylin and the Very Patient Tortoise"? (yes / cut)
+- **[KEVIN]** Drop Ep 4 title option 2 "Princess Baylin Says Sorry" since it was reserved for a possible future episode, or confirm it is fine to use here? (drop it / fine to use)
 
 ### Instructions for Claude and ChatGPT
-1. Critique Episode 4 pacing, word count (target 1000-1250 VO), and kid-safety in `scripts/2026-10-01.md`. Return a short bullet list (max 10) of concrete edits only; save notes under `logs/critique-ep4-2026-10-01.md` if writing in-repo.
-2. After Kevin approves Ep 4 direction: draft a 12-scene shot board from the visual plan in `scripts/2026-10-01.md`, matching the format of `scripts/drafts/episode-3-shotboard.md`, into `scripts/drafts/episode-4-shotboard.md`. Do not invent new canon.
+1. **ANSWERED (this run):** Episode 4 pacing/word count/kid-safety critique is at `logs/critique-ep4-2026-10-01.md`. Do not redo it.
+2. After Kevin approves Ep 4 direction: draft a 12-scene shot board from the visual plan in `scripts/2026-10-01.md`, matching the format of `scripts/drafts/episode-3-shotboard.md`, into `scripts/drafts/episode-4-shotboard.md`. Do not invent new canon. Still blocked on Kevin.
 
 ---
 
