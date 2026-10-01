@@ -141,6 +141,7 @@ Last updated: 2026-10-01 06:48 SAST (Faceless YouTube Repo agent, Day 5)
 - Built full Episode 4 English VO from princess-baylin `handoff/youtube/2026-10-01.md` into [`scripts/2026-10-01.md`](https://github.com/LBD-DASH/faceless-youtube-content/blob/main/scripts/2026-10-01.md): Princess Baylin and the River That Whispered (making amends); daytime riverbank; Pip the river fish; mid cue "Mend... soft and true"; thank-you ritual close; soft Ep 5 tease title only (Very Patient Tortoise). Draft for Kevin, not approved, not for publish.
 - AF/ZU notes kept as NEEDS NATIVE-SPEAKER CHECK (handoff hook drafts + on-screen title/mid/close). Short 30-45s + visual plan + chapter markers included.
 - Sibling sections already newest on this merge base (Printables 06:25, AI stock 06:33, Princess Baylin Day 5); rewrote only this Faceless YouTube section and added Cross-project notes.
+- Small fix: [`scripts/drafts/episode-2-shotboard.md`](https://github.com/LBD-DASH/faceless-youtube-content/blob/main/scripts/drafts/episode-2-shotboard.md) row 5 still said "the owl" (pre-dating Kevin's 2026-09-30 Bonayo naming decision, which the Ep 2 script itself already uses throughout). Renamed the row to Bonayo. Ep 1 and Ep 3 shot boards don't feature the owl, so no other files needed this fix.
 - Still no publish, no spend, no API keys. Episodes 1 to 3 remain approved; Episode 4 pending Kevin.
 
 ### Next up
