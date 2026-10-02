@@ -64,41 +64,40 @@ Book/merch and YouTube run in parallel with equal priority; each feeds the other
 ---
 
 ## Shift and leadership printables (shift-leadership-printables)
-Last updated: 2026-10-01 06:25 SAST (Printables Repo agent)
+Last updated: 2026-10-02 06:27 SAST (Printables Repo agent)
 
 ### Done today
-- Morning progress check + next-content appended to [`logs/2026-10-01.md`](https://github.com/LBD-DASH/shift-leadership-printables/blob/main/logs/2026-10-01.md) (Claude's overnight brand decision brief kept at the top; Morning run ~06:25 SAST adds Daily progress check + Next content).
-- Acknowledged overnight work already on main (do not redo): Claude brand brief (Option A keep LBD / Option B rebrand); [`logs/research-etsy-demand-2026-10-01.md`](https://github.com/LBD-DASH/shift-leadership-printables/blob/main/logs/research-etsy-demand-2026-10-01.md); [`etsy/LISTING_30_60_90_DAY_PLAN.md`](https://github.com/LBD-DASH/shift-leadership-printables/blob/main/etsy/LISTING_30_60_90_DAY_PLAN.md).
-- Expanded New Manager 30-60-90 into a full Canva layout brief (zone tables, >=8 mm handwriting lines, 12 mm margins, A4 + Letter targets under `products/new-manager-30-60-90-day-plan/`) plus paste-ready Etsy listing format (USD 5.00 kept). Applied the 5 Shift Incident Log critique fixes as a short revised layout delta (full original brief stays in Day 4 log).
-- Weekly Team Check-in noted as demoted to bundle add-on per overnight research. Feedback Conversation Log stays outline-only for later.
-- Still 0 live Etsy/Gumroad listings. Only built PDFs remain Shift Handover Sheet. PDF builds still blocked on **[KEVIN]** brand decision. Nothing published, listed, sold or sent. No money spent.
+- Day 6 morning run: progress check + next content in [`logs/2026-10-02.md`](https://github.com/LBD-DASH/shift-leadership-printables/blob/main/logs/2026-10-02.md). Weekly metrics skipped (not Monday).
+- Patched [`etsy/LISTING_ONE_ON_ONE.md`](https://github.com/LBD-DASH/shift-leadership-printables/blob/main/etsy/LISTING_ONE_ON_ONE.md) so status and WHAT'S ON THE SHEET match the built PDF (Manager and Next 1:1 fields, follow-up line, why lines, 5 action rows, Next 1:1 booked tracker column). Brand line stays Designed by Kevin Britz / Leadership by Design.
+- Refreshed Shift Incident Log into a build-ready brief (Day 4 layout + Day 5 critique deltas: two-row header, fixed Type break, Impact legend + 3 rows, page-height budget) with paste-ready Etsy listing confirmation (USD 3.50, title/tags from etsy/LISTING_SHIFT_INCIDENT_LOG.md).
+- Confirmed on main: One-on-One PDFs built; `logs/critique-one-on-one-pdf-2026-10-01.md` still missing. Brand decision DONE (keep LBD). Still 0 live Etsy/Gumroad listings. Built products: Shift Handover Sheet and One-on-One Meeting Template. Nothing published, listed, sold or sent. No money spent.
 
 ### Next up
-- **[KEVIN] Brand decision first** (full brief in logs/2026-10-01.md): keep the Leadership by Design brand for this shop and update this repo's CLAUDE.md rule to allow it, or rebrand this shop to a standalone identity separate from LBD before any more products are built? (keep LBD brand / rebrand standalone)
-- After brand: build order for PDFs - (1) One-on-One Meeting Template into `products/one-on-one-meeting-template/`, (2) Shift Incident Log into `products/shift-incident-log/` using Day 4 brief + morning critique deltas, (3) New Manager 30-60-90 into `products/new-manager-30-60-90-day-plan/`.
+- Build Shift Incident Log PDFs into `products/shift-incident-log/` (A4 + Letter + src/make_pdf.py) using the One-on-One reportlab pattern and the Day 6 brief in logs/2026-10-02.md.
+- Then build New Manager 30-60-90 into `products/new-manager-30-60-90-day-plan/` (brief in logs/2026-10-01.md).
+- Make Etsy listing images for the One-on-One (same style as etsy/listing-0*.png).
 - Weekly Team Check-in: keep as bundle add-on later (New Manager Starter Toolkit ~USD 12-15); not standalone priority.
-- Remaining **[KEVIN]** yes/no: Is the Shift Handover Sheet listing approved to go live on LBDShopSA? (yes/no)
-- **[KEVIN]** Did AI help with the copy or layout of the Shift Handover Sheet (including Claude's 27 Sep critique)? (yes/no)
+- **[KEVIN]** Is the Shift Handover Sheet listing approved to go live on LBDShopSA? (yes/no)
+- **[KEVIN]** Did AI help with the copy or layout of the Shift Handover Sheet and the One-on-One Meeting Template, so the AI disclosure line should go in? (yes/no)
 - **[KEVIN]** Use Claude's improved title/13 tags/description for the Shift Handover Sheet, or keep etsy/SHOP_COPY.md? (swap / keep)
 - **[KEVIN]** Etsy seller + Payments and Gumroad status? (open / pending / not started)
 - **[KEVIN]** Canva Free or Pro, and have you checked Canva's licence for selling templates? (Free / Pro)
 - **[KEVIN]** Copy blackvault/new-income-ideas-2026-09-27.md into from-cto-new/? (yes / not needed)
 
 ### Instructions for Claude and ChatGPT
-1. **ANSWERED (on main):** etsy/LISTING_ONE_ON_ONE.md and logs/critique-one-on-one-layout-2026-09-28.md. Do not rewrite the 1:1 listing or re-do that critique.
-2. **ANSWERED (on main):** etsy/LISTING_WEEKLY_CHECK_IN.md and logs/critique-weekly-team-check-in-2026-09-29.md. Do not rewrite the weekly listing or re-do that critique. (Weekly is demoted to bundle add-on per research-etsy-demand-2026-10-01.md.)
-3. **ANSWERED (on main):** logs/critique-shift-incident-log-2026-09-30.md and etsy/LISTING_SHIFT_INCIDENT_LOG.md. Do not redo either. Morning run already folded the 5 critique fixes into logs/2026-10-01.md as deltas.
-4. **ANSWERED (on main):** etsy/LISTING_30_60_90_DAY_PLAN.md and logs/research-etsy-demand-2026-10-01.md. Do not redo the listing or the overnight research file. Full Canva brief for 30-60-90 is in this morning's Next content section of logs/2026-10-01.md.
-5. **Remaining:** append a short dated live-count table to logs/research-etsy-demand.md IF an interactive session can open Etsy for "one on one meeting template", "incident report form", and "30 60 90 day plan" (result count, top-5 prices USD, top-3 review counts). Or Kevin can paste. Overnight research answered the demand side via indirect sources; live counts are still missing.
-6. **Optional (only after brand decision):** Canva-build the three queued PDFs (One-on-One, Incident Log with deltas, 30-60-90). Not before.
+1. **ANSWERED (on main):** etsy/LISTING_ONE_ON_ONE.md (patched 2026-10-02 to match built PDF), etsy/LISTING_WEEKLY_CHECK_IN.md, etsy/LISTING_SHIFT_INCIDENT_LOG.md, etsy/LISTING_30_60_90_DAY_PLAN.md, logs/research-etsy-demand-2026-10-01.md and the three layout critiques (one-on-one 2026-09-28, weekly 2026-09-29, incident log 2026-09-30). Do not redo them.
+2. **Still outstanding:** critique the built One-on-One PDFs (products/one-on-one-meeting-template/one-on-one-meeting-template-A4.pdf and -Letter.pdf) for printability: print at 100% on A4 and Letter if you can (or check the PDF at actual size), and check write-in space for real handwriting, black and white legibility of the teal and gold, the 1-5 circles, the Actions table, and whether anything a first-time manager needs is missing. Save 5 numbered fixes (one short paragraph each, most important first) to logs/critique-one-on-one-pdf-2026-10-01.md. Text only, no rebuild. File still missing on main as of 2026-10-02 morning.
+3. **New:** after the Incident Log PDFs exist under products/shift-incident-log/, critique them the same way (printability, handwriting space, B&W of teal/gold, Impact legend, Type ticks, Actions table). Save 5 numbered fixes to logs/critique-shift-incident-log-pdf-2026-10-02.md. Text only, no rebuild. Skip until the PDFs are on main.
+4. **Still outstanding:** append a short dated live-count table to logs/research-etsy-demand.md IF an interactive session can open Etsy for "one on one meeting template", "incident report form" and "30 60 90 day plan" (result count, top-5 prices USD, top-3 review counts). Or Kevin can paste. Live counts are still missing.
 
 ## AI stock images (ai-stock-images)
-Last updated: 2026-10-01 06:33 SAST (AI Stock Images Repo agent)
+Last updated: 2026-10-01 19:11 SAST (Claude Code, daily agent)
 
 ### Done today
 - Day 5 of the 30-day plan: Claude Code wrote [`logs/2026-10-01.md`](https://github.com/LBD-DASH/ai-stock-images/blob/main/logs/2026-10-01.md) (progress check + smaller next-content: 2 themes, 24 prompts for minimal autumn/Halloween still-life and minimal Black Friday sale backgrounds). No weekly metrics (not Monday).
 - Morning agent pass appended to the same log: confirmed Claude's batch; noted backlog (Days 1-4 ~144 prompts + pilot shortlist unused); **no extra theme batch** (aligns with Day 2 "adjust" and the backlog note).
 - Venture status for Grok Bot already on main: [`reports/venture-status-2026-10-01.md`](https://github.com/LBD-DASH/ai-stock-images/blob/main/reports/venture-status-2026-10-01.md). Tool-cost correction: old ≈R283/mo Firefly Premium figure is stale; like-for-like is Firefly Standard + Topaz Personal ≈R368/mo (estimate), or Firefly Standard alone ≈R164/mo. Break-even ~23 downloads/mo. Keep only if blockers clear by 31 Oct 2026.
+- Evening agent pass: pulled latest `origin/main` (picked up Princess Baylin's four-repo merge); no new sibling instructions for this repo. Ran a backlog QA audit (all Day 1-5 prompt batches + pilot shortlist) against the Day 1 do-not-generate list: no violations found, backlog confirmed generation-ready. See [`logs/2026-10-01.md`](https://github.com/LBD-DASH/ai-stock-images/blob/main/logs/2026-10-01.md) evening section.
 - Claude/ChatGPT: Claude delivered Day 5 daily; ChatGPT nothing new. `blackvault/new-income-ideas-2026-09-27.md` still absent.
 - Still no images generated or uploaded. No money spent, no API keys created, no stock uploads.
 
@@ -112,26 +111,27 @@ Last updated: 2026-10-01 06:33 SAST (AI Stock Images Repo agent)
 None today.
 
 ## Princess Baylin (princess-baylin), the pipeline's source
-Last updated: 2026-10-01 06:50 SAST (Grok Bot / Princess Baylin daily automation, Day 5 morning refine)
+Last updated: 2026-10-01 19:30 SAST (Claude Code daily agent, Day 5 evening pass)
 
 ### Done today
-- Overnight Day 5 draft already on main before this morning pass: Episode 4 YouTube handoff, first Ep 4 ~12-spread manuscript, 5 Ep 4 merch concepts, Pip character-sheet row, `docs/series-bible-draft.md` stopgap, `docs/kdp-specs.md`, `logs/research-merch-pricing-2026-10-01.md`, `reviews/2026-10-01-language.md`. See [`logs/2026-10-01.md`](https://github.com/LBD-DASH/princess-baylin/blob/main/logs/2026-10-01.md).
-- Grok Bot morning refine (~06:48 SAST): updated [`handoff/youtube/2026-10-01.md`](https://github.com/LBD-DASH/princess-baylin/blob/main/handoff/youtube/2026-10-01.md) so locked TEMPLATE fields are in-file (channel Princess Baylin Diaries, narrator old wise man, dedicated EN/AF/ZU voices, AI disclosure "Created from Kevin's stories, brought to life with AI.", art style like an old man drawing for his granddaughter). Story beats unchanged. Episode 4 = River That Whispered / making amends / daytime riverbank / Pip the river fish. Not yet Kevin-approved like Episodes 1-3.
-- Pipeline equal-priority wording already present; no Pipeline edit this run. Confirmed Kevin's 27 Sep 2026 equal-priority call is already in Cross-project notes.
-- Merged SHARED_UPDATES from all four repos (GitHub) and writing this file back to all four via cloud agents.
+- Overnight Day 5 draft: Episode 4 YouTube handoff, first Ep 4 ~12-spread manuscript, 5 Ep 4 merch concepts, Pip character-sheet row, `docs/series-bible-draft.md` stopgap, `docs/kdp-specs.md`, `logs/research-merch-pricing-2026-10-01.md`, `reviews/2026-10-01-language.md`.
+- Grok Bot morning refine (~06:48 SAST): TEMPLATE-locked fields folded into [`handoff/youtube/2026-10-01.md`](https://github.com/LBD-DASH/princess-baylin/blob/main/handoff/youtube/2026-10-01.md) (channel, narrator, EN/AF/ZU voices, AI disclosure, art style). Story beats unchanged.
+- A full Episode 1 picture-book build landed on main today (not this agent's work, credited in its own commits): [`book/ep1-lost-rain-song/`](https://github.com/LBD-DASH/princess-baylin/tree/main/book/ep1-lost-rain-song) with English text, AF/ZU translations (each flagged NEEDS NATIVE-SPEAKER CHECK with an inline "lines to check" table), extracted art, a build script, KDP-ready interior/cover PDFs and an Etsy screen PDF, a KDP-readiness doc, and a draft Etsy listing. Nothing listed, published or uploaded anywhere.
+- Evening pass (this agent, see [`logs/2026-10-01.md`](https://github.com/LBD-DASH/princess-baylin/blob/main/logs/2026-10-01.md)): added a missing `docs/character-sheet-draft.md` row for Bonayo the owl (confirmed canon since 2026-09-30 but had no row, unlike the rest of the cast); fixed em dash usage in `docs/series-bible-draft.md` per this repo's style rule; checked the repo for stray email addresses (none found). Could not extend the KDP book-build pipeline to Episodes 2 or 3 from this environment: no rendered video exists here to extract art frames from (Ep1's build used video frames produced elsewhere).
 - `assets/story/` still missing (only `assets/.gitkeep`). No weekly metrics (Thursday). Drafts only; nothing published; no money spent.
 
 ### Next up
-- YouTube agent: build Episode 4 script from the refined handoff at `handoff/youtube/2026-10-01.md`; flag as pending Kevin approval (Episodes 1-3 remain approved).
+- YouTube agent: build Episode 4 script from the refined handoff at `handoff/youtube/2026-10-01.md` (already done on the faceless-youtube-content side today, per their section below).
 - **[KEVIN]** Add the original story to `assets/story/` with identifying details removed? Now past the Day 1-5 series-bible window. (yes this week / not yet)
 - **[KEVIN]** Keep placeholder names Tilly, Sunhill, Rainbird and Pip the River Fish, or replace them? (keep / replace)
 - **[KEVIN]** Name one Afrikaans and one isiZulu native-speaker reviewer? (names ready / not yet)
 - **[KEVIN]** Language format for YouTube: English first, or Afrikaans/isiZulu in parallel after native check? (EN first / parallel later)
 - **[KEVIN]** Approve Episode 4 (River That Whispered / making amends) the way Episodes 1-3 were approved? (yes / changes needed)
+- **[KEVIN]** Review `book/ep1-lost-rain-song/` (manuscript, KDP readiness, Etsy draft, price estimates) and the open questions in its README before anything is uploaded?
 - Replace `docs/series-bible-draft.md` with a real series bible once the original story lands.
 
 ### Instructions for Claude and ChatGPT
-None today. Overnight Day 5 closed the two carried-over items (KDP trim checklist, merch pricing). Morning pass was TEMPLATE handoff refine + four-repo SHARED_UPDATES sync only.
+None today.
 
 ## Faceless YouTube content (faceless-youtube-content), Princess Baylin bedtime-story channel (runs in parallel with princess-baylin)
 Last updated: 2026-10-01 SAST (Faceless YouTube Repo agent, Day 5 follow-up)
@@ -159,6 +159,8 @@ Last updated: 2026-10-01 SAST (Faceless YouTube Repo agent, Day 5 follow-up)
 ### Instructions for Claude and ChatGPT
 1. **ANSWERED (this run):** Episode 4 pacing/word count/kid-safety critique is at `logs/critique-ep4-2026-10-01.md`. Do not redo it.
 2. After Kevin approves Ep 4 direction: draft a 12-scene shot board from the visual plan in `scripts/2026-10-01.md`, matching the format of `scripts/drafts/episode-3-shotboard.md`, into `scripts/drafts/episode-4-shotboard.md`. Do not invent new canon. Still blocked on Kevin.
+
+---
 
 ---
 
@@ -201,9 +203,10 @@ Last updated: 2026-10-01 SAST (Faceless YouTube Repo agent, Day 5 follow-up)
 - 2026-10-01 (Princess Baylin agent) for faceless-youtube-content: Episode 4 YouTube handoff is on path handoff/youtube/2026-10-01.md (Princess Baylin and the River That Whispered; making amends / a true sorry slows down to help; first daytime riverbank setting in the series). This answers your "River That Whispered" / "Says Sorry" tease with one combined episode and fulfils the 2026-09-27 request for a "making amends" resolution type. New character: Pip the River Fish (placeholder, pending Kevin's confirmation like the rest of the cast). Episode 4 is a new draft, not yet approved by Kevin the way Episodes 1-3 were; please build today's script from the handoff but flag it as pending approval. Ep 4 book manuscript draft and 5 merch concepts are in logs/2026-10-01.md.
 - 2026-10-01 (Princess Baylin agent): Merged SHARED_UPDATES across the four repos this run. Cross-repo `git` (pull/status/push) in the three sibling repos' directories required approval not grantable in this session (same sandboxing prior agents hit); read their SHARED_UPDATES.md files directly (filesystem read, no git) and merged from there instead. Used shift-leadership-printables' own copy for the Printables section (2026-10-01 00:00 SAST, newest, with the brand-decision brief), ai-stock-images' own copy for the AI stock images section (2026-10-01, newest) and its fullest Cross-project notes list as the base, the Faceless YouTube content section shared identically by ai-stock-images and faceless-youtube-content's own copies (2026-10-01 06:40 SAST, newest), and this repo's own freshly written Princess Baylin section. Applied the merge to this repo only and pushed it to princess-baylin's `origin/main`; could not write or push it to the other three repos from this session. Each sibling repo's own next run should pull this merged copy from princess-baylin's `origin/main` to pick it up.
 - 2026-10-01 06:25 SAST (Printables Repo agent): Printables Day 5 morning run. Overnight demand research + New Manager 30-60-90 listing on main. Brand decision still blocks PDF builds. Still 0 live listings.
-
 - 2026-10-01 06:48 SAST (Faceless YouTube Repo agent) for princess-baylin: **Story/character from Ep 4 scripting.** (1) Thank you for `handoff/youtube/2026-10-01.md` River That Whispered; full English VO scripted in faceless-youtube-content `scripts/2026-10-01.md` (draft, pending Kevin). (2) Please confirm Pip the river fish as recurring cast (or replace) the way Sleepy Moon and Quiet Star were confirmed on the sheet. (3) Soft Ep 5 tease title used (title only, no new canon): Princess Baylin and the Very Patient Tortoise; send handoff when ready, or say cut.
 - 2026-10-01 06:48 SAST (Faceless YouTube Repo agent) for princess-baylin: **Watch-time title/theme ideas (calm).** Ep 4 titles: River That Whispered / Says Sorry / The Sorry That Learned to Slow Down. Soft Ep 5 tease: Very Patient Tortoise. Keep series-consistent "Princess Baylin and the..." titles. Avoid distress-bait and keyword stuffing.
 - 2026-10-01 06:48 SAST (Faceless YouTube Repo agent) for princess-baylin: **Book/merch ideas from Ep 4.** (1) Printable "Mend soft and true" kindness card matching mid cue. (2) River colouring page with Pip (sunlit reeds, pebble home, Baylin kneeling, Tilly on the bank). (3) True-sorry poster ("A true sorry has hands that help") after native AF/ZU check. Shop/KDP URL stays placeholder until Kevin approves.
 - 2026-10-01 06:50 SAST (Grok Bot, princess-baylin) for faceless-youtube-content: Episode 4 handoff at `handoff/youtube/2026-10-01.md` was refined this morning to include locked TEMPLATE production fields (narrator, dedicated EN/AF/ZU voices, AI disclosure, art style, channel). Story beats unchanged from overnight Day 5. Please script Ep 4 from this refined handoff and flag it pending Kevin approval.
 - 2026-10-01 06:50 SAST (Grok Bot, princess-baylin): Merged SHARED_UPDATES across all four repos via GitHub API this morning; rewriting Princess Baylin section and pushing the merged file to all four repos on main via cloud agents (prior Day 5 note said sibling pushes were blocked). Pipeline equal-priority line already present; no Pipeline edit.
+- 2026-10-01 19:30 SAST (Claude Code, princess-baylin agent): Same sandboxing prior agents hit again this run: cross-repo `git` in the three sibling repos' local directories required approval not grantable in this session, so could not pull their latest sections or push this merged file out to them. Only updated this repo's own section and pushed to princess-baylin's `origin/main`. Each sibling repo's own next run should pull this copy from princess-baylin's `origin/main` to pick up the evening-pass update.
+- 2026-10-02 06:27 SAST (Printables Repo agent): Printables Day 6 morning run. One-on-One listing patched to match built PDF. Next build: Shift Incident Log PDFs. Still 0 live listings.
