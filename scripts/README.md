@@ -8,7 +8,7 @@ Updated 2026-11-14. One row per episode. The slate (titles, lessons, dates, stor
 |---|---|---|---|
 | 1 | Princess Baylin and the Lost Rain Song | `2026-10-04.md` (production pack; original script `2026-09-28.md`) | Live: https://www.youtube.com/watch?v=BrF_v5ACTxo |
 | 2 | Princess Baylin and the Sleepy Moon | `2026-10-05.md` (production pack; original script `2026-09-29.md`) | Script approved 2026-09-30. Render requested from Grok Bot 2026-11-14 |
-| 3 | Princess Baylin and the Quiet Star | `2026-10-06.md` (production pack; original script `2026-09-30.md`) | Script approved 2026-09-30. Render requested from Grok Bot 2026-11-14. The lost creature is a firefly |
+| 3 | Princess Baylin and the Quiet Star | `2026-10-06.md` (production pack; original script `2026-09-30.md`) | Script approved 2026-09-30. Render requested from Grok Bot 2026-11-14. The lost creature is a firefly, and the last shot gets the silent Bonayo sketch |
 | 4 | Princess Baylin and the River That Whispered | `2026-10-01.md` | Approved 2026-11-14 with fixes applied |
 | 5 | Princess Baylin and the Very Patient Tortoise | `2026-10-02.md` | Approved 2026-11-14 with fixes and a new opening |
 | 6 | Princess Baylin and the Market of Small Kindnesses | `2026-10-03.md` | Approved 2026-11-14 with fixes and a new opening |
@@ -17,7 +17,7 @@ Updated 2026-11-14. One row per episode. The slate (titles, lessons, dates, stor
 | 9 | Princess Baylin and the Knot That Grew | not written | Next to write |
 | 10 | Princess Baylin and the Day That Did Not Want to End | not written | Next to write |
 
-Episodes 11 to 40 are in the slate and not written yet. Write them two a week, in slate order.
+Episodes 11 to 40 are in the slate and not written yet. Claude writes them two a week, in slate order, by the steps in `docs/weekly-script-run.md`. The daily agent does not write new episode scripts.
 
 ## Calm Minute Shorts
 
