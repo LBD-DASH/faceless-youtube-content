@@ -33,7 +33,7 @@
 
 Kevin approved the 100-video plan and its eleven decisions, then said "You decide on everything". The full list is in `~/princess-baylin/CLAUDE.md` and `~/princess-baylin/docs/series-plan-100.md`. What changes in this repo:
 
-1. The hold on Episode 7 onward is lifted. Scripts are written two a week, in slate order, from `~/princess-baylin/docs/100-video-slate.md`. `scripts/README.md` lists every script and its status.
+1. The hold on Episode 7 onward is lifted. New episode scripts are written by Claude, two a week, in slate order, from `~/princess-baylin/docs/100-video-slate.md` (procedure: `docs/weekly-script-run.md`). The daily agent does not write new episode scripts. It works on production packs, shot boards, critiques and the status file. `scripts/README.md` lists every script and its status.
 2. Episodes 4, 5 and 6 are approved with the critique fixes applied. Episodes 7 and 8 are written and approved for art and the English render.
 3. Every new script follows `docs/channel-style-guide.md`: a 30-second hook, 13 beats with the close split in two, one calm cue with a child pause, a Calm Minute Short, and Bonayo's closing line matched to the lesson.
 4. A story must not put Baylin through the same situation and outcome as an earlier episode. In particular, she does not open by racing ahead and close by slowing down again.
