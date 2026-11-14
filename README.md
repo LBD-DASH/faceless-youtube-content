@@ -1,5 +1,7 @@
 # Faceless YouTube Channel: Princess Baylin Bedtime Stories
 > **Start here:** read [SHARED_UPDATES.md](SHARED_UPDATES.md) for the status of all four sister projects, and write your update back into it.
+>
+> **The plan (approved by Kevin, 14 Nov 2026):** the 100-video slate and series plan live in the princess-baylin repo (`docs/100-video-slate.md`, `docs/series-plan-100.md`). Scripts and their status are listed in [scripts/README.md](scripts/README.md). The decisions of that day are in [CLAUDE.md](CLAUDE.md). Where this README and the plan disagree, the plan is newer.
 
 _Repo: `faceless-youtube-content`. Side venture, separate from YardOps, 6HN and LBD. Background research: `blackvault/new-income-ideas-2026-09-27.md` (27 Sep 2026)._
 

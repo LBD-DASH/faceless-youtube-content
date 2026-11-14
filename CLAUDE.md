@@ -28,3 +28,18 @@
 - Keep YardOps, Six Human Needs and Leadership by Design out of this repo.
 - Never use em dashes in files you write.
 - End each run with a five-line summary: what you did, files changed, commits pushed, decisions needed from Kevin, tomorrow's plan.
+
+## Decisions (Kevin, 2026-11-14 SAST)
+
+Kevin approved the 100-video plan and its eleven decisions, then said "You decide on everything". The full list is in `~/princess-baylin/CLAUDE.md` and `~/princess-baylin/docs/series-plan-100.md`. What changes in this repo:
+
+1. The hold on Episode 7 onward is lifted. Scripts are written two a week, in slate order, from `~/princess-baylin/docs/100-video-slate.md`. `scripts/README.md` lists every script and its status.
+2. Episodes 4, 5 and 6 are approved with the critique fixes applied. Episodes 7 and 8 are written and approved for art and the English render.
+3. Every new script follows `docs/channel-style-guide.md`: a 30-second hook, 13 beats with the close split in two, one calm cue with a child pause, a Calm Minute Short, and Bonayo's closing line matched to the lesson.
+4. A story must not put Baylin through the same situation and outcome as an earlier episode. In particular, she does not open by racing ahead and close by slowing down again.
+5. Check every script with `python3 scripts/check_pace.py <file>` before committing it. Every beat reads at 85 to 120 words a minute.
+6. Placeholder names are kept unless the original story says otherwise. English first; Afrikaans and isiZulu wait for a named native-speaker reviewer.
+
+**Delegation.** Claude decides the remaining story, script, slate and production questions and records each one in `logs/`. A script Claude marks approved is cleared for art and the English render. The rules for every run above are unchanged: an agent never publishes, uploads, posts, sends messages or spends money. Kevin watches each finished video before it is made public.
+
+The channel is live at https://www.youtube.com/@PrincessBaylinDiaries. Episode 1 is live and public at https://www.youtube.com/watch?v=BrF_v5ACTxo. Do not write any email address into this repo.
